@@ -1,8 +1,10 @@
 [project]
-name = "python-template"
+name = "study-helper"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Spanish educational study helper application"
+authors = [
+    {name = "User", email = "user@example.com"}
+]
 requires-python = ">=3.11"
 dependencies = [
     "questionary>=2.1.1",
